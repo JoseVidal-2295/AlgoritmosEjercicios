@@ -1,0 +1,14 @@
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\bin\Debug\net6.0\Ejercicio1.exe
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\bin\Debug\net6.0\Ejercicio1.deps.json
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\bin\Debug\net6.0\Ejercicio1.runtimeconfig.json
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\bin\Debug\net6.0\Ejercicio1.dll
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\bin\Debug\net6.0\ref\Ejercicio1.dll
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\bin\Debug\net6.0\Ejercicio1.pdb
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\obj\Debug\net6.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.cs
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\obj\Debug\net6.0\Ejercicio1.dll
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\obj\Debug\net6.0\ref\Ejercicio1.dll
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
+C:\Users\Jose Vidal Asencio\source\repos\Algoritmos\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
